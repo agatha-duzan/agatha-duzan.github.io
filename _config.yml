@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Climate change on YouTube, evolution, trends and influences
-subtitle: ADA 2023 Project (by fADAmily)
+subtitle: ADA 2023 Project (by fADAmily)!
 description: >
   ADA 2023 Project (by fADAmily)
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -60,6 +60,8 @@ descriptions:
 
 
 blabla bla bla
+
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
