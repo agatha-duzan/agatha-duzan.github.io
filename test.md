@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "test"
-permalink: /test/
+title: "Data Story"
+permalink: /Data Story/
 main_nav: true
 ---
 
