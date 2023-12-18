@@ -61,7 +61,7 @@ It was also always the worst overtime.
 And if that wasn't enough, it also had the highest Heat Metric.
 </p>
 
-<img width="500" src="assets/r.jpg">{:style="display: block; margin: 0 auto" }
+<img src="assets/r.jpg">{:style="display: block; margin: 0 auto" }
 
 <p style='text-align: justify;'>
 It consistently had the highest Heat overtime.
