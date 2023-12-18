@@ -63,6 +63,11 @@ And if that wasn't enough, it also had the highest Heat Metric.
 
 <img src="assets/r.jpg">{:style="display: block; margin: 0 auto" }
 
+<img src="assets/r.jpg">{:style="display: block; margin: 0 auto" }
+
+<img src="assets/r.jpg" style="display: block; margin: 0 auto">
+
+
 <p style='text-align: justify;'>
 It consistently had the highest Heat overtime.
 </p>
