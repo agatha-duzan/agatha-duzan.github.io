@@ -14,6 +14,7 @@ Climate change is a hot topic that needs to draw people's attention more than ev
 YouNiverse is a large dataset collection of channel and video metadata from English-language YouTube. The metadata covers over 136k channels and 72.9M videos providing information about the videos realated to their categories, upload date, description ,and interactions statistics. The time frame considered is between May 2005 and October 2019. In addition, YouNiverse provides a time series dataset focusing on channels and the evolution of their views, subscribers, and number of videos over time from early January to the end of September. 
 
 HERE ADD THE PLOT WITH THE EVOLUTION OF VIDEOS OVER TIME
+
 </p>
 
 ## About Climate change on Youtube
@@ -45,8 +46,7 @@ Overall, the exponential growth of the news and politics category on YouTube hig
 In the previous part, we have seen that the interest in political videos is growing rapidly. Thus, we are interested in analyzing the user behaviour and the general interaction with political videos in comparison to non-political videos. Therefore, we analyze the general sentiment per video category and the so defined "Heat metric", which is calculated as follows:
 </p>
 
-
-<img src="assets/earth.png">
+![test](/assets/earth.png)
 
 <p style='text-align: justify;'>  
 According to our analysis of the sentiment of 74m YouTube video descriptions, it looks like it is all gloom and doom in news&politics category. In fact, when we compared the sentiment scores of videos across different categories, the news and politics category came out with the lowest scores of all.
@@ -63,12 +63,6 @@ It was also always the worst overtime.
 <p style='text-align: justify;'>
 And if that wasn't enough, it also had the highest Heat Metric.
 </p>
-
-<img src="assets/earth.png">{:style="display: block; margin: 0 auto" }
-
-<img src="assets/r.jpg">{:style="display: block; margin: 0 auto" }
-
-<img src="assets/earth.png" style="display: block; margin: 0 auto">
 
 
 <p style='text-align: justify;'>
