@@ -6,17 +6,20 @@ main_nav: true
 ---
 
 <p style='text-align: justify;'>  
-YouTube is one of the major social media platforms of our generation and people everywhere use it to keep in touch with the world. But how is YouTube used in the light of politics? Do users use YouTube just to catch up with recent news while having breakfast or is it more than that? Our approach is to first analyze the general political interaction on Youtube and compare it to the watching-behaviour of different video categories. Showing that there are indeed differences in the interaction behvaiour in political vs non-political videos, we narrow our research down to understand the differences within the category of political videos. More precisely, we analyze the differences in watching behaviour regarding views about politicians (Trump, Clinton and Obama) and also political orientation (left, center and right). Using the results, we examine how these are in line with the election results in the US. In our last part, we analyze the differences in political topics used by the three groups and test whether the respective sentiment disceprancies are statistically significant between the political orientations.
+Climate change is a hot topic that needs to draw people's attention more than ever. Using the YouNiverse dataset, we observe the influence of the topic in YouTube’s videos. As any social media, YouTube's data reflects the interest of its users and with the analysis of climate change, we can examine the emergence of people awareness' on environment. In our analysis, we compare view peaks of climate change related videos and particular events such as a natural disaster or political decision at that moment to make a connection between the two. We also look at the viral videos on climate change and analyse what subject related to the environment people are the most sensitive to.
 </p>
   
 ## About YouNiverse
 <p style='text-align: justify;'>  
 YouNiverse is a large dataset collection of channel and video metadata from English-language YouTube. The metadata covers over 136k channels and 72.9M videos providing information about the videos realated to their categories, upload date, description ,and interactions statistics. The time frame considered is between May 2005 and October 2019. In addition, YouNiverse provides a time series dataset focusing on channels and the evolution of their views, subscribers, and number of videos over time from early January to the end of September. 
+
+HERE ADD THE PLOT WITH THE EVOLUTION OF VIDEOS OVER TIME
 </p>
 
-## About Radicalization Dataset
+## About Climate change on Youtube
 <p style='text-align: justify;'>  
-The radicalization dataset combines a total of 676 politically oriented channels on Youtube, together with their channel id and the respective political category. The dataset also provides information about the videos included in these channels with respect to the upload date and interactions statistics. The channels are then classified according to their affiliation into right, left, or center. 
+Nb de videos, evolution over time, part de climate oreineted videos
+
 </p>
 
 ## More Politics on Youtube!
@@ -49,7 +52,7 @@ In the previous part, we have seen that the interest in political videos is grow
 According to our analysis of the sentiment of 74m YouTube video descriptions, it looks like it is all gloom and doom in news&politics category. In fact, when we compared the sentiment scores of videos across different categories, the news and politics category came out with the lowest scores of all.
 </p>
   
-<img width="500" src="assets/r.jpg">{:style="display: block; margin: 0 auto" }
+<img src="assets/r.jpg">{:style="display: block; margin: 0 auto" }
 
   
 <p style='text-align: justify;'>  
