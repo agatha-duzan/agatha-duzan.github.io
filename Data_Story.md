@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data Story"
-permalink: /Data Story/
+permalink: /Data_Story/
 main_nav: true
 ---
 
