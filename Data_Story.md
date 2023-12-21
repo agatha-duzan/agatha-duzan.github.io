@@ -1,5 +1,8 @@
 ---
 layout: post
+title: "Data Story"
+permalink: /Data Story/
+main_nav: true
 ---
 
 
