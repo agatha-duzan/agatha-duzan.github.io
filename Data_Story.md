@@ -28,7 +28,7 @@ HERE ADD THE PLOT WITH THE EVOLUTION OF VIDEOS OVER TIME
 <p style='text-align: justify;'>  
 An increase number of clkimate videos over time.
 
-However we also observe that the number of videos on youtube as been rising. So was climate change a topic that atrracted more people due to higher level of attractiveness.  Proportion goes down. 
+However we also observe that the number of videos on youtube as been rising. So was climate change a topic that atrracted more people due to higher level of attractiveness.  Proportion goes down.  it suggest that people are not very interested but is it true is it not due to ? When somtehing happen...
 
 To do so here is the plot of the part of videos that were climate change oreineted
 
@@ -41,6 +41,9 @@ To do so here is the plot of the part of videos that were climate change oreinet
 <p style='text-align: justify;'>  
 test
 </p>
+
+
+{% include QuarterlyScore.html %}
 
 
 ### Second and final methodology, filtering with google content classifier
