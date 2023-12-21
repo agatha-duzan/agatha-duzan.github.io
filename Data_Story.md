@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: coverpage
 title:  "Once upon a time..."
 author: Melanie Brtan, Yehya El Hassan, Antoine Métivier, Etienne Monnin
 cover:  "/assets/logo.jpg"
