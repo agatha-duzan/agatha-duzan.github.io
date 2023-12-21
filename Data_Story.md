@@ -18,6 +18,8 @@ Climate change is a hot topic that needs to draw people's attention more than ev
 <p style='text-align: justify;'>  
 YouNiverse is a large dataset collection of channel and video metadata from English-language YouTube. The metadata covers over 136k channels and 72.9M videos providing information about the videos realated to their categories, upload date, description ,and interactions statistics. The time frame considered is between May 2005 and October 2019. In addition, YouNiverse provides a time series dataset focusing on channels and the evolution of their views, subscribers, and number of videos over time from early January to the end of September. 
 
+
+
 HERE ADD THE PLOT WITH THE EVOLUTION OF VIDEOS OVER TIME
 
 </p>
@@ -26,7 +28,7 @@ HERE ADD THE PLOT WITH THE EVOLUTION OF VIDEOS OVER TIME
 <p style='text-align: justify;'>  
 An increase number of clkimate videos over time.
 
-However we also observe that the number of videos on youtube as been rising. So was climate change a topic that atrracted more people due to higher level of attractiveness. 
+However we also observe that the number of videos on youtube as been rising. So was climate change a topic that atrracted more people due to higher level of attractiveness.  Proportion goes down. 
 
 To do so here is the plot of the part of videos that were climate change oreineted
 
