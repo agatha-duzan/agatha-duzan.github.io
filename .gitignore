@@ -9,5 +9,4 @@ _site
 
 # Bundler
 .bundle/
-vendor/
 .idea/
