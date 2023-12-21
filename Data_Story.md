@@ -19,6 +19,7 @@ Climate change is a hot topic that needs to draw people's attention more than ev
 YouNiverse is a large dataset collection of channel and video metadata from English-language YouTube. The metadata covers over 136k channels and 72.9M videos providing information about the videos realated to their categories, upload date, description ,and interactions statistics. The time frame considered is between May 2005 and October 2019. In addition, YouNiverse provides a time series dataset focusing on channels and the evolution of their views, subscribers, and number of videos over time from early January to the end of September. 
 
 
+{% include QuarterlyScore.html %}
 
 HERE ADD THE PLOT WITH THE EVOLUTION OF VIDEOS OVER TIME
 
