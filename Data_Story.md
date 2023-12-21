@@ -43,8 +43,6 @@ test
 </p>
 
 
-{% include QuarterlyScore.html %}
-
 
 ### Second and final methodology, filtering with google content classifier
 
