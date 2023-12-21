@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Data Story"
 permalink: /Data Story/
 main_nav: true
