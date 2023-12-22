@@ -31,20 +31,15 @@ Here, using these two interactive plots, you can observe the proportion of YouTu
 As we can see there is an increase of videos on climate change overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics? To answer this question it is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
 
 
-## A study by category (PAUL)
+
+
+## Overall audience response, how are climate videos perceived ? A study by category (PAUL)
 
 
 
 ## Popular analysis (NASTASIA)
 
 
-
-## Overall audience response, how are climate videos perceived ? (PAUL)
-
-### Like dislike ratio
-<p style='text-align: justify;'>  
-blablabla
-</p>
 
 ## Sentiment analysis (SEB)
 <p style='text-align: justify;'>  
