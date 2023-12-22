@@ -24,7 +24,7 @@ In this graph, we observe the evolution of the number of videos uploaded per day
 Here, using this interactive plot, you can observe the proportion of YouTube videos discussing climate change. This plot depicts only a fraction of the total videos available on the platform. Yet, this is expected considering that climate change is a relatively recent issue, and YouTube hosts a wide array of content spanning various categories such as music, gaming, and sports. However what is crucial to examine is the evolution of climate change videos over time.
 </p>
 
-<img width="720" src="img/Climate_over_time2.png">
+{% include quarter_category.html %}
 
 <p style='text-align: justify;'>
 As we can see there is an increase of videos on climate change overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics? To answer this question it is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
@@ -52,7 +52,7 @@ Two conclusion can be said from this study.Firstly when focussing across all vid
 What are climate change related videos main youtube categories and how does it compare to overall youtube? Was there an evolution of these categories ?
 </p>
 
-ADD PLOT HERE!!!
+{% include pie1.html %}
 
 <p style='text-align: justify;'>
 As previously mentioned, let's narrow our focus to specific key categories. As expected, the primary categories for climate-related videos significantly differ from the broader spectrum on YouTube. Categories such as Gaming and Music, prevalent across YouTube, are notably scarce in climate change-related content. Conversely, certain categories have gained prominence in climate change-related videos: News & Politics, Education, Science & Technology, and Non-Profit & Activism. These four categories collectively constitute 80% of climate change-related videos, with News & Politics alone accounting for 50%. This suggests that on YouTube, climate change appears to be more of a political or news-focused topic rather than a subject pertaining to science or education. This prompts the question: has this trend always been the case?
@@ -67,7 +67,7 @@ Based on this categorical analysis, we've selected specific relevant categoriesâ
 Several intriguing spikes suggest that specific videos have significantly influenced their respective categories. Moreover, some spikes transcend categories, indicating that certain events had a widespread global impact.
 </p>
 
-ADD SOME PLOT HERE!!!
+{% include pie2.html %}
 
 <p style='text-align: justify;'>
 We can see that Climate Change was always mainly in News & Politics categorie but this tends to drastically increase as it increase on overall YouTube, but in greater proportions. We can also draw these interesting fact:
