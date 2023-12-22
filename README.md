@@ -66,7 +66,7 @@ So, we have observed that depending on your channel type, if you are an active Y
 ## Sentiment analysis (SEB)
 
 <p style='text-align: justify;'>  
-Qu'est-ce qui explique que les vidéos font moins de vues? 
+Emotions run high when discussing the alarming issue of climate change. The current situation paints a bleak picture, and as time passes, the daunting reality of averting the catastrophic consequences becomes increasingly apparent. However, amidst this turmoil, a glimmer of hope emerges. There are those who find solace in witnessing the growing number of individuals taking action and the emergence of groundbreaking technologies. Therefore we ask ourself: does the presentation style of climate change videos influence their impact? Are viewers drawn to these videos seeking to shed tears over the impending crisis, or are they yearning to nurture their optimism for a brighter future? The way climate change issues are portrayed might wield immense power in shaping viewers' emotions and perceptions, possibly influencing their actions and hopes for the world that lies ahead.
 
 </p>
 
@@ -75,15 +75,22 @@ Qu'est-ce qui explique que les vidéos font moins de vues?
 
 ## A Deeper analysis, can we relate view peaks to current events? (AGATHA)
 
+<p style='text-align: justify;'>  
+While climate change may not captivate every YouTube user, certain events have the power to alter this disinterest. Significant occurrences have the ability to shift our perspective on the world, compelling us to react. There's a natural inclination among individuals to respond, to voice their thoughts and opinions on the subject when such events occur. Is it possible to identify which events have had the greatest impact on people and incited their reactions regarding climate change?
+</p>
+
 ### Number of videos uploaded
 <p style='text-align: justify;'>  
-Wh
+A first approach consits of analysing the number of videos uploaded to find some peaks and match them with current events.
+
 </p>
 
 ### Tags analysis (SEB)
 
 <p style='text-align: justify;'>  
-tag + COP 21
+A second approach consits of analysing the number of tags to find some peaks and match them with current events.
+
+Study of COP 21
 </p>
 
 ## Conclusion
