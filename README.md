@@ -173,12 +173,11 @@ We first construct a bipartite graph between the tags and the videos. We then pr
 We then select the community that contains the tag "cop21".
 </p>
 
-<p style='text-align: justify;'>  
 
 <img width="720" src="img/cop21_graph.png">
 
-We see that the tags related to COP21 cover multiple climate change subjects.
-
+<p style='text-align: justify;'>
+We see that the tags related to COP21 cover multiple climate change subjects such has "solar energy". Indeed, we find tags related to the Paris Agreement, but also tags related to the consequences of climate change, such as "extinction". This shows that COP21 has generated a lot of interest on YouTube, and that people are interested in both the causes and the consequences of climate change.
 </p>
 
 ## Conclusion
