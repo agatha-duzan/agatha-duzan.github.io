@@ -40,7 +40,7 @@ This plot illustrates the evolution of the proportion of climate change videos b
 Before conducting this study, let's analyze the trend in the average number of views of climate change videos compared to all videos over time. Previously, we examined the number of videos uploaded, which illuminated the interest of YouTubers. However, assessing the popularity of a video for the audience is more accurate by examining the number of views.
 </p>
 
-<img width="720" src="img/AG2.png>
+<img width="720" src="img/AG2.png">
 
 <p style='text-align: justify;'>
 Two conclusion can be said from this study.Firstly when focussing across all video categories, there exists a tendency for older videos to accumulate a higher total view count. This could be explained by their extended duration on the platform. However, a notable distinction emerges in the realm of climate change videos. Here, a more consistent pattern is observed, suggesting that older climate change-related content tends to attract fewer views over time, hinting at a potential perception of rapid obsolescence. We also observe some peaks at certain times. This peaks are rapid and steady letting thing that an important event happened. It's worth noting that we intend to delve deeper into interpreting the abrupt spikes in view counts as part of our subsequent analysis.
@@ -59,9 +59,9 @@ As previously mentioned, let's narrow our focus to specific key categories. As e
 Based on this categorical analysis, we've selected specific relevant categories—Education, News & Politics, Non-Profits & Activism, and Science & Technology—due to their abundance of climate change-related videos and their relevance.
 </p>
 
-<img width="720" src="img/Paul1.png>
+<img width="720" src="img/Paul1.png">
 
-<img width="720" src="img/Paul2.png>
+<img width="720" src="img/Paul2.png">
 
 <p style='text-align: justify;'>
 Several intriguing spikes suggest that specific videos have significantly influenced their respective categories. Moreover, some spikes transcend categories, indicating that certain events had a widespread global impact.
@@ -133,8 +133,8 @@ Emotions run high when discussing the alarming issue of climate change. The curr
 
 </p>
 
-{% include scatter.html %}
-
+{% include view_sentiment.html %}
+<img width="720" src="img/sa_category.png">
 
 ## A Deeper analysis, can we relate view peaks to current events? (AGATHA)
 
