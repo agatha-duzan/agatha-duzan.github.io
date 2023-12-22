@@ -167,9 +167,10 @@ We will now focus on the period around the COP21 to see what other information c
 
 <img width="720" src="img/bipartite.png">
 
-<p style='text-align: justify;'>  
+<p style='text-align: justify;'>
+We first construct a bipartite graph between the tags and the videos. We then project this graph on the tags to obtain a graph of tags where two tags are connected if they appear in the same video, the width of the edge being proportional to the number of videos in which the two tags appear together.
 
-We first construct a bipartite graph between the tags and the videos. We then project this graph on the tags to obtain a graph of tags. 
+We then select the community that contains the tag "cop21".
 </p>
 
 <p style='text-align: justify;'>  
