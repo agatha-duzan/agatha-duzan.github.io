@@ -146,6 +146,8 @@ While climate change may not captivate every YouTube user, certain events have t
 <p style='text-align: justify;'>  
 A first approach consists of analysing the number of videos uploaded to find some peaks and match them with current events.
 
+<img width="720" src="img/vite.jpeg">
+
 </p>
 
 ### Tags analysis 
