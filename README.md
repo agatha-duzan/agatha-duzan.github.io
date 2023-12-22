@@ -39,23 +39,28 @@ This plot illustrating the evolution of the proportion of climate change videos 
 ## Overall audience response: how are climate videos perceived ? A study by category (PAUL)
 
 <p style='text-align: justify;'>  
-Faire l'anlyse par catégorie et dire que en fonction de la catégorie ce n'est pas pareil, parler de news and politics --> majorité des vidéos de climate sont de cette catégorie et les conséquences qui en découle!
+Faire l'analyse par catégorie et dire que en fonction de la catégorie ce n'est pas pareil, parler de news and politics --> majorité des vidéos de climate sont de cette catégorie et les conséquences qui en découle!
+
+
+Transition: 
+So overall what makes a video popular or not?
 </p>
 
 ## Popular analysis (NASTASIA)
 
 <p style='text-align: justify;'>  
-Première partie de l'analyse de Nastasia: focus maintenant sur le nombre de vues et non le nombre de vidéos! 
-Les chaines qui ne sont pas sur le climate change font moins de vues quand elle parlent de climate change que les chaines spécialisées.
-Si t'es spécilisé en climate chnage tu fais plus de vues.
+Première partie de l'analyse de Nastasia:
 
---> Conclusion il s'agit d'un secteur de niche pour un pubic ciblé qui est friand des videos sur le clilate chnage. 
+Are popular videos on climate change from popular channels or are they relevant to a specific event that made them famous. This is what we are going to see in this part. Are there some channels that are specilaized on climate change and if yes what are the consequences?
+
+Are specilaized climate change channel more popular than regular channels, will their climatechnage videos have more success?
+
 </p>
 
 <img width="720" src="img/test.jpg">
 
 <p style='text-align: justify;'>  
-So we have seen that depending on your channel type, if your are an active youtuber about climate change your videos will have more or less views. But are they other parameters making a climatre change vidoe more attracting than other or other? 
+So, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change."But are there other parameters that make a climate change video more attractive than others, or vice versa?
 </p>
 
 ## Sentiment analysis (SEB)
