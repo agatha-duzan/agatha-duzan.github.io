@@ -118,7 +118,7 @@ Here are all the channels that have more than 50% of their content corresponding
 <img width="720" src="img/barplot_ch50.png">
 <p style='text-align: justify;'>  
 We will now consider their number of views per day and observe if they are correlated to climate change event:
-{% include scatter_inter.html %}
+{% include timeseries_event.html %}
 </p>
 <p style='text-align: justify;'> 
 After some further investigations, it seems that even if some pics look like they could be related, the videos uploaded in that period of time do not have any correlation with the event in question.  
