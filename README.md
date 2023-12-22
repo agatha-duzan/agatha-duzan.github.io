@@ -19,7 +19,7 @@ In this graph, we observe the evolution of the number of videos uploaded per day
 
 ## About Climate change on Youtube
 
-<img width="720" src="img/VideoClimateYt.png">
+<img width="720" src="img/VidClimateYt.png">
 
 RAJOUTER LE 2 EME ET LES TRANSFORMER EN INTERACTIF!
 
@@ -27,7 +27,8 @@ Here, using these two interactive plots, you can observe the proportion of YouTu
 
 <img width="720" src="img/Climate_over_time.png">
 
-As we cn see there is an increase of videos on climate chnage overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics. Therefore its is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
+As we cn see there is an increase of videos on climate change overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics. Therefore its is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
+
 
 
 Analyse superficielle avec les graphes de Paul très jolis pour voir la répartition par catégorie. 
@@ -45,7 +46,7 @@ To do so here is the plot of the part of videos that were climate change oreinet
 
 </p>
 
-{% include scatter.html %}
+
 
 ## Popular analysis (NASTASIA)
 
@@ -80,3 +81,5 @@ blablabla
 <p style='text-align: justify;'>  
 blablabla
 </p>
+
+{% include scatter.html %}
