@@ -148,6 +148,8 @@ A first approach consists of analysing the number of videos uploaded to find som
 
 <img width="720" src="img/vite.jpeg">
 
+This plot shows the relation between current event and the number of video uploaded pointing out how current event have an impact on youtube.
+
 </p>
 
 ### Tags analysis 
