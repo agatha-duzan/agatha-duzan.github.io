@@ -97,15 +97,6 @@ This box plot shows that in average, videos on climate change are not very popul
 Therefore, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change.But how are these videos received by the audience?
 </p>
 
-## Overall audience response: how are climate videos perceived ? 
-
-<p style='text-align: justify;'>  
-Faire l'analyse par catégorie et dire que en fonction de la catégorie ce n'est pas pareil, parler de news and politics --> majorité des vidéos de climate sont de cette catégorie et les conséquences qui en découle!
-
-
-Transition: 
-So overall what makes a video popular or not?
-</p>
 
 ## Analysis of the channels that are strongly involved with the climate change topic
 
@@ -131,10 +122,19 @@ Most of the videos of the channels that are involved with climate change usually
 <p style='text-align: justify;'>  
 Emotions run high when discussing the alarming issue of climate change. The current situation paints a bleak picture, and as time passes, the daunting reality of averting the catastrophic consequences becomes increasingly apparent. However, amidst this turmoil, a glimmer of hope emerges. There are those who find solace in witnessing the growing number of individuals taking action and the emergence of groundbreaking technologies. Therefore we ask ourself: does the presentation style of climate change videos influence their impact? Are viewers drawn to these videos seeking to shed tears over the impending crisis, or are they yearning to nurture their optimism for a brighter future? The way climate change issues are portrayed might wield immense power in shaping viewers' emotions and perceptions, possibly influencing their actions and hopes for the world that lies ahead.
 
+<p style='text-align: justify;'>  
+We can see that the category of the video has an impact on the sentiment of the video. Indeed, videos in the category "Education" are more optimistic than videos in the category "News & Politics". This is not surprising since videos in the category "Education" are more likely to focus on solutions to climate change, while videos in the category "News & Politics" are more likely to focus on the negative consequences of climate change.
+</p>
+
+<img width="720" src="img/sa_category.png">
+
+
+<p style='text-align: justify;'>  
+We all see that negative videos are more popular than positive videos. This is not surprising since negative videos are more likely to be shared on social networks. Indeed, people are more likely to share a video that makes them angry than a video that makes them happy. This is called the "anger effect" and it has been observed in several studies.
 </p>
 
 {% include view_sentiment.html %}
-<img width="720" src="img/sa_category.png">
+
 
 ## A Deeper analysis, can we relate view peaks to current events? 
 
@@ -157,19 +157,26 @@ This plot shows the relation between current event and the number of video uploa
 <p style='text-align: justify;'>  
 A second approach consists of analysing the number of tags to find some peaks and match them with current events.
 By looking at the most popular tags related to climate change, we observe regualr count sikes which can some time be related to current events. For example, the tag "cop21" is the most popular tag in 2015, which is the year of the Paris Agreement. This agreement was signed by 196 countries to reduce greenhouse gas emissions and limit the global temperature increase to 1.5°C. This event was a major step in the fight against climate change, and it is not surprising that it has generated a lot of interest on YouTube.
+</p>
 
 {% include tag_count.html %}
 
+<p style='text-align: justify;'>  
 We will now focus on the period around the COP21 to see what other information can we extract from Youtube about this event.
+</p>
 
 <img width="720" src="img/bipartite.png">
 
-We first construct a bipartite graph between the tags and the videos. We then project this graph on the tags to obtain a graph of tags. 
+<p style='text-align: justify;'>  
 
+We first construct a bipartite graph between the tags and the videos. We then project this graph on the tags to obtain a graph of tags. 
+</p>
+
+<p style='text-align: justify;'>  
 
 <img width="720" src="img/cop21_graph.png">
 
-We see that the thas related to COP21 cover multiple climate change subjects.
+We see that the tags related to COP21 cover multiple climate change subjects.
 
 </p>
 
