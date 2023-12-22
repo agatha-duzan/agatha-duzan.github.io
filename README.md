@@ -21,7 +21,7 @@ In this graph, we observe the evolution of the number of videos uploaded per day
 <img width="720" src="img/VidClimateYt.png">
 
 <p style='text-align: justify;'>  
-Here, using this interactive plot, you can observe the proportion of YouTube videos discussing climate change. This plot depicts only a fraction of the total videos available on the platform. Yet, this is expected considering that climate change is a relatively recent issue, and YouTube hosts a wide array of content spanning various categories such as music, gaming, and sports. However what is crucial to examine is the evolution of climate change videos over time.
+Here, you can observe the proportion of YouTube videos discussing climate change. This plot depicts only a fraction of the total videos available on the platform. Yet, this is expected considering that climate change is a relatively recent issue, and YouTube hosts a wide array of content spanning various categories such as music, gaming, and sports. However what is crucial to examine is the evolution of climate change videos over time.
 </p>
 
 {% include quarter_category.html %}
@@ -40,17 +40,19 @@ This plot illustrates the evolution of the proportion of climate change videos b
 Before conducting this study, let's analyze the trend in the average number of views of climate change videos compared to all videos over time. Previously, we examined the number of videos uploaded, which illuminated the interest of YouTubers. However, assessing the popularity of a video for the audience is more accurate by examining the number of views.
 </p>
 
-<img width="720" src="img/AG2.png">
+<img width="720" src="img/AG2.jpeg">
 
 <p style='text-align: justify;'>
-Two conclusion can be said from this study.Firstly when focussing across all video categories, there exists a tendency for older videos to accumulate a higher total view count. This could be explained by their extended duration on the platform. However, a notable distinction emerges in the realm of climate change videos. Here, a more consistent pattern is observed, suggesting that older climate change-related content tends to attract fewer views over time, hinting at a potential perception of rapid obsolescence. We also observe some peaks at certain times. This peaks are rapid and steady letting thing that an important event happened. It's worth noting that we intend to delve deeper into interpreting the abrupt spikes in view counts as part of our subsequent analysis.
+Two conclusion can be said from this study. Firstly when focussing across all video categories, there exists a tendency for older videos to accumulate a higher total view count. This could be explained by their extended duration on the platform. However, a notable distinction emerges in the realm of climate change videos. Here, a more consistent pattern is observed, suggesting that older climate change-related content tends to attract fewer views over time, hinting at a potential perception of rapid obsolescence. We also observe some peaks at certain times. This peaks are rapid and steady letting thing that an important event happened. It's worth noting that we intend to delve deeper into interpreting the abrupt spikes in view counts as part of our subsequent analysis.
 </p>
 
 ## Analysis climate change videos' categories 
 
 <p style='text-align: justify;'>
-What are climate change related videos main youtube categories and how does it compare to overall youtube? Was there an evolution of these categories ?
+What are climate change related videos main Youtube categories and how does it compare to overall youtube? Was there an evolution of these categories ?
 </p>
+
+{% include pie2.html %}
 
 {% include pie1.html %}
 
@@ -67,13 +69,19 @@ Based on this categorical analysis, we've selected specific relevant categoriesâ
 Several intriguing spikes suggest that specific videos have significantly influenced their respective categories. Moreover, some spikes transcend categories, indicating that certain events had a widespread global impact.
 </p>
 
-{% include pie2.html %}
+
+{% include polo.html %}
+
 
 <p style='text-align: justify;'>
 We can see that Climate Change was always mainly in News & Politics categorie but this tends to drastically increase as it increase on overall YouTube, but in greater proportions. We can also draw these interesting fact:
 * Climate Change was much more of a Non Profit & Activism topic in 2010 than in 2019 (20% versus 7% of uploaded videos)
+
 * Climate Change was much more of a Science & Technology topic in 2013 than in 2019 (38% versus 7% of uploaded videos)
+
 * There was up to 10% of Climate change related videos in Comedy but nearly 0 in 2019, we do not joke about climate change anymore.
+
+Climate change categories have evolved over time, and have never been as serious as they are today. What are the consequences of news related videos on the audience? Are they more popular than other videos? We will see that in the next part.
 </p>
 
 
