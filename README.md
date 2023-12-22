@@ -54,3 +54,11 @@ blablabla
 <p style='text-align: justify;'>  
 blabla bla
 </p>
+
+## Tags analysis (SEB)
+
+<p style='text-align: justify;'>  
+tag + COP 21
+</p>
+
+## Conclusion
