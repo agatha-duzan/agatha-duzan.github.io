@@ -200,3 +200,5 @@ In conclusion, we can say that climate change is a topic that is becoming more a
 We have also seen that the way climate change is presented in videos can have a significant impact on the number of views. Indeed, negative videos are more popular than positive videos. This is not surprising since negative videos are more likely to be shared on social networks. Indeed, people are more likely to share a video that makes them angry than a video that makes them happy. This is called the "anger effect" and it has been observed in several studies.
 
 Finally, we have seen that some events have a significant impact on the number of videos uploaded and the number of views. This is particularly the case for the COP21, which generated a lot of interest on YouTube. We can therefore conclude that YouTube is a good indicator of the interest of the general public in climate change.
+
+</p>
