@@ -25,50 +25,18 @@ RAJOUTER LE 2 EME ET LES TRANSFORMER EN INTERACTIF!
 
 Here, using these two interactive plots, you can observe the proportion of YouTube videos discussing climate change. These plots depict only a fraction of the total videos available on the platform. Yet, this is expected considering that climate change is a relatively recent issue, and YouTube hosts a wide array of content spanning various categories such as music, gaming, and sports. However what is  crucial to examine is the evolution of Climate change videos over time.
 
-<img width="720" src="img/Climate_over_time.png">
+<img width="720" src="img/Climate_over_time2.png">
 
-As we cn see there is an increase of videos on climate change overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics. Therefore its is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
-
-
-
-Analyse superficielle avec les graphes de Paul très jolis pour voir la répartition par catégorie. 
-
-## Recent evolution of climate change on Youtube
-<p style='text-align: justify;'>  
-An increase number of clkimate videos over time.
+As we can see there is an increase of videos on climate change overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics? To answer this question it is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
 
 
-PARTIE DE AGATHA!!
-
-However we also observe that the number of videos on youtube as been rising. So was climate change a topic that atrracted more people due to higher level of attractiveness.  Proportion goes down.  it suggest that people are not very interested but is it true is it not due to ? When somtehing happen...
-
-To do so here is the plot of the part of videos that were climate change oreineted
-
-</p>
+## A study by category
 
 
 
 ## Popular analysis (NASTASIA)
 
 
-
-
-## Deeper analysis of the Evolution of climate change videos
-
-### Can we relate view peaks to current events? 
-
-<p style='text-align: justify;'>  
-blabla bla
-</p>
-
-### Study of different categories 
-
-<p style='text-align: justify;'>  
-blablabla
-</p>
-
-
-### Study of different categories 
 
 ## Overall audience response, how are climate videos perceived ?
 
@@ -83,3 +51,10 @@ blablabla
 </p>
 
 {% include scatter.html %}
+
+
+## A Deeper analysis, can we relate view peaks to current events? 
+
+<p style='text-align: justify;'>  
+blabla bla
+</p>
