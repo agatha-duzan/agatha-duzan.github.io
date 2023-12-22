@@ -35,13 +35,18 @@ As we can see there is an increase of videos on climate change overtime. But is 
 
 ## Overall audience response, how are climate videos perceived ? A study by category (PAUL)
 
-
+<p style='text-align: justify;'>  
+blablabla
+</p>
 
 ## Popular analysis (NASTASIA)
 
-
+<p style='text-align: justify;'>  
+blablabla
+</p>
 
 ## Sentiment analysis (SEB)
+
 <p style='text-align: justify;'>  
 blablabla
 </p>
