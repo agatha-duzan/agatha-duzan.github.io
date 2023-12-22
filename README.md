@@ -84,8 +84,8 @@ Are climate change videos more popular than other videos? This is what we are go
 </p>
 <p style='text-align: justify;'>   
 Here are all the channels that contains climate videos. The darker the dot, the more pourcentage of climate videos thay contain and the bigger they are, the more videos they uploaded on the topic.
-{% include scatter_inter.html %}
 </p>
+{% include scatter_inter.html %}
 <p style='text-align: justify;'>  
 We notice that most of the channels with a high proportion of climate change videos are under the x=y curve. This would mean channels with a high ratio of climate videos tend to do good compared to their other videos. We will analyse more in details how good climate videos do in general:
 </p>
@@ -118,7 +118,7 @@ Here are all the channels that have more than 50% of their content corresponding
 <img width="720" src="img/barplot_ch50.png">
 <p style='text-align: justify;'>  
 We will now consider their number of views per day and observe if they are correlated to climate change event:
-{% include scatter_inter.html %}
+{% include timeseries_event.html %}
 </p>
 <p style='text-align: justify;'> 
 After some further investigations, it seems that even if some pics look like they could be related, the videos uploaded in that period of time do not have any correlation with the event in question.  
