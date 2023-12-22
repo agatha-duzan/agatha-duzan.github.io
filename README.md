@@ -84,8 +84,8 @@ Are climate change videos more popular than other videos? This is what we are go
 </p>
 <p style='text-align: justify;'>   
 Here are all the channels that contains climate videos. The darker the dot, the more pourcentage of climate videos thay contain and the bigger they are, the more videos they uploaded on the topic.
-{% include scatter_inter.html %}
 </p>
+{% include scatter_inter.html %}
 <p style='text-align: justify;'>  
 We notice that most of the channels with a high proportion of climate change videos are under the x=y curve. This would mean channels with a high ratio of climate videos tend to do good compared to their other videos. We will analyse more in details how good climate videos do in general:
 </p>
