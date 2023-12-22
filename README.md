@@ -24,6 +24,8 @@ To do so here is the plot of the part of videos that were climate change oreinet
 
 </p>
 
+{% include scatter.html %}
+
 ## Brief methodology detour: how did we extract climate videos
 
 ### First methodology, key words
