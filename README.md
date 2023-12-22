@@ -38,14 +38,14 @@ As we can see there is an increase of videos on climate change overtime. But is 
 
 
 
-## Overall audience response, how are climate videos perceived ?
+## Overall audience response, how are climate videos perceived ? (PAUL)
 
 ### Like dislike ratio
 <p style='text-align: justify;'>  
 blablabla
 </p>
 
-### Sentiment analysis
+## Sentiment analysis (SEB)
 <p style='text-align: justify;'>  
 blablabla
 </p>
@@ -53,7 +53,7 @@ blablabla
 {% include scatter.html %}
 
 
-## A Deeper analysis, can we relate view peaks to current events? 
+## A Deeper analysis, can we relate view peaks to current events? (AGATHA)
 
 <p style='text-align: justify;'>  
 blabla bla
