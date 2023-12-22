@@ -36,7 +36,7 @@ As we can see there is an increase of videos on climate change overtime. But is 
 This plot illustrating the evolution of the proportion of climate change videos by week shows that the number of videos discussing climate change decreases. Does this mean that nobody cares about climate change or that videos discussing climate change are less attractive compared to others? Well, that's the question we need to answer! Couldn't it be because of the rapid rise of... Indeed, YouTube is immensely popular for certain categories such as gaming. Gaming develops itself very quickly, and perhaps this trend isn't correlated with climate change, as fewer gaming videos discuss the topic. Therefore, we understand that an analysis by category is required.
 </p>
 
-## Overall audience response, how are climate videos perceived ? A study by category (PAUL)
+## Overall audience response: how are climate videos perceived ? A study by category (PAUL)
 
 <p style='text-align: justify;'>  
 Faire l'anlyse par catégorie et dire que en fonction de la catégorie ce n'est pas pareil, parler de news and politics --> majorité des vidéos de climate sont de cette catégorie et les conséquences qui en découle!
