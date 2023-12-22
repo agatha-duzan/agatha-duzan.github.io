@@ -129,6 +129,7 @@ Most of the videos of the channels that are involved with climate change usually
 
 <p style='text-align: justify;'>  
 Emotions run high when discussing the alarming issue of climate change. The current situation paints a bleak picture, and as time passes, the daunting reality of averting the catastrophic consequences becomes increasingly apparent. However, amidst this turmoil, a glimmer of hope emerges. There are those who find solace in witnessing the growing number of individuals taking action and the emergence of groundbreaking technologies. Therefore we ask ourself: does the presentation style of climate change videos influence their impact? Are viewers drawn to these videos seeking to shed tears over the impending crisis, or are they yearning to nurture their optimism for a brighter future? The way climate change issues are portrayed might wield immense power in shaping viewers' emotions and perceptions, possibly influencing their actions and hopes for the world that lies ahead.
+</p>
 
 <p style='text-align: justify;'>  
 We can see that the category of the video has an impact on the sentiment of the video. Indeed, videos in the category "Education" are more optimistic than videos in the category "News & Politics". This is not surprising since videos in the category "Education" are more likely to focus on solutions to climate change, while videos in the category "News & Politics" are more likely to focus on the negative consequences of climate change.
