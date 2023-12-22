@@ -49,14 +49,15 @@ Here are all the channels that contains climate videos. The darker the dot, the 
 
 {% include scatter_inter.html %}
 
-
+We notice that most of the channels with a high proportion of climate change videos are under the x=y curve. This would mean channels with a high ratio of climate videos tend to do good compared to their other videos. We will analyse more in details how good climate videos do in general:
 
 </p>
 
 <img width="720" src="img/ratio_boxplot.png">
 
-<p style='text-align: justify;'>  
-So, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change."But are there other parameters that make a climate change video more attractive than others, or vice versa?
+<p style='text-align: justify;'> 
+This box plot shows that in average, videos on climate change are not very popular on YouTube, especially if the channel is not specialized in the topic. Making climate change videos will not make you famous. However, if your channel has a high ratio of climate videos, then you might have an audience that is interested in the topic and continuing to make those videos will make you gain views.   
+Therefore, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change.But how are these videos received by the audience?
 </p>
 
 ## Overall audience response: how are climate videos perceived ? (PAUL)
