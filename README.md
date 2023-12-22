@@ -20,16 +20,21 @@ In this graph, we observe the evolution of the number of videos uploaded per day
 
 <img width="720" src="img/VidClimateYt.png">
 
-RAJOUTER LE 2 EME ET LES TRANSFORMER EN INTERACTIF!
-
+<p style='text-align: justify;'>  
 Here, using these two interactive plots, you can observe the proportion of YouTube videos discussing climate change. These plots depict only a fraction of the total videos available on the platform. Yet, this is expected considering that climate change is a relatively recent issue, and YouTube hosts a wide array of content spanning various categories such as music, gaming, and sports. However what is  crucial to examine is the evolution of Climate change videos over time.
+</p>
 
 <img width="720" src="img/Climate_over_time2.png">
 
+<p style='text-align: justify;'>
 As we can see there is an increase of videos on climate change overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics? To answer this question it is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
+</p>
 
+<img width="720" src="img/Decrease.png">
 
-
+<p style='text-align: justify;'>
+This plot illustrating the evolution of the proportion of climate change videos by week shows that the number of videos discussing climate change decreases. Does this mean that nobody cares about climate change or that videos discussing climate change are less attractive compared to others? Well, that's the question we need to answer! Couldn't it be because of the rapid rise of... Indeed, YouTube is immensely popular for certain categories such as gaming. Gaming develops itself very quickly, and perhaps this trend isn't correlated with climate change, as fewer gaming videos discuss the topic. Therefore, we understand that an analysis by category is required.
+</p>
 
 ## Overall audience response, how are climate videos perceived ? A study by category (PAUL)
 
