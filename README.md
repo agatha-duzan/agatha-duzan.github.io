@@ -7,7 +7,7 @@ YouTube has evolved beyond its origins as a mere video-sharing platform and has 
 ## About YouNiverse
 
 <p style='text-align: justify;'>  
-YouNiverse is a large dataset collection of channel and video metadata from English-language YouTube. The metadata covers over 136k channels and 72.9M videos providing information about the videos realated to their categories, upload date, description ,and interactions statistics. The time frame considered is between May 2005 and October 2019. In addition, YouNiverse provides a time series dataset focusing on channels and the evolution of their views, subscribers, and number of videos over time from early January to the end of September. 
+YouNiverse is a large dataset collection of channel and video metadata from English-language YouTube. The metadata covers over 136k channels and 72.9M videos providing information about the videos realated to their categories, upload date, description, and interactions statistics. The time frame considered is between May 2005 and October 2019. In addition, YouNiverse provides a time series dataset focusing on channels and the evolution of their views, subscribers, and number of videos over time from early January to the end of September. 
 </p>
 
 <img width="720" src="img/VideoTot.png">
@@ -21,7 +21,7 @@ In this graph, we observe the evolution of the number of videos uploaded per day
 <img width="720" src="img/VidClimateYt.png">
 
 <p style='text-align: justify;'>  
-Here, using these two interactive plots, you can observe the proportion of YouTube videos discussing climate change. These plots depict only a fraction of the total videos available on the platform. Yet, this is expected considering that climate change is a relatively recent issue, and YouTube hosts a wide array of content spanning various categories such as music, gaming, and sports. However what is  crucial to examine is the evolution of Climate change videos over time.
+Here, using this interactive plot, you can observe the proportion of YouTube videos discussing climate change. This plot depicts only a fraction of the total videos available on the platform. Yet, this is expected considering that climate change is a relatively recent issue, and YouTube hosts a wide array of content spanning various categories such as music, gaming, and sports. However what is crucial to examine is the evolution of climate change videos over time.
 </p>
 
 <img width="720" src="img/Climate_over_time2.png">
@@ -33,10 +33,33 @@ As we can see there is an increase of videos on climate change overtime. But is 
 <img width="720" src="img/Decrease.png">
 
 <p style='text-align: justify;'>
-This plot illustrating the evolution of the proportion of climate change videos by week shows a consistent decrease in the number of videos dedicated to discussing climate change. However, interpreting this decline as an indicator of lack of interest in climate change might be premature. Alternatively, it raises the question of whether videos centered on climate change are becoming less appealing compared to other content. Could this declining trend be attributed to the rapid surge in popularity of other genres on YouTube? For instance, the platform is notably dominated by certain categories such as gaming, which continually experiences rapid growth. It's plausible that this surge in gaming content isn't aligned with climate change discussions, possibly resulting in fewer videos addressing this critical topic. Hence, conducting an in-depth analysis categorized by content type seems imperative to comprehend the dynamics influencing viewership patterns and preferences on the platform.
+This plot illustrates the evolution of the proportion of climate change videos by week. It shows a consistent decrease in the number of videos dedicated to discussing climate change. However, interpreting this decline as an indicator of lack of interest in climate change might be premature. Alternatively, it raises the question of whether videos centered on climate change are becoming less appealing compared to other content. Could this declining trend be attributed to the rapid surge in popularity of other genres on YouTube? For instance, the platform is notably dominated by certain categories such as gaming, which continually experiences rapid growth. It's plausible that this surge in gaming content isn't aligned with climate change discussions, possibly resulting in fewer videos addressing this critical topic. Hence, conducting an in-depth analysis categorized by content type seems imperative to comprehend the dynamics influencing viewership patterns and preferences on the platform.
 </p>
 
-## Overall audience response: how are climate videos perceived ? A study by category (PAUL)
+## In what categories climate change videos are part of? (PAUL)
+
+Mettre ses pie plots
+
+## Popular analysis (NASTASIA)
+
+<p style='text-align: justify;'>  
+
+Are climate change videos more popular than other videos? This is what we are going to see in this part.  
+Here are all the channels that contains climate videos. The darker the dot, the more pourcentage of climate videos thay contain and the bigger they are, the more videos they uploaded on the topic.
+
+{% include scatter_inter.html %}
+
+
+
+</p>
+
+<img width="720" src="img/ratio_boxplot.png">
+
+<p style='text-align: justify;'>  
+So, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change."But are there other parameters that make a climate change video more attractive than others, or vice versa?
+</p>
+
+## Overall audience response: how are climate videos perceived ? (PAUL)
 
 <p style='text-align: justify;'>  
 Faire l'analyse par catégorie et dire que en fonction de la catégorie ce n'est pas pareil, parler de news and politics --> majorité des vidéos de climate sont de cette catégorie et les conséquences qui en découle!
@@ -46,22 +69,9 @@ Transition:
 So overall what makes a video popular or not?
 </p>
 
-## Popular analysis (NASTASIA)
+## Analysis of the channels that are strongly involved with the climate change topic (NASTASIA)
 
-<p style='text-align: justify;'>  
-Première partie de l'analyse de Nastasia:
-
-Are popular videos on climate change from popular channels or are they relevant to a specific event that made them famous. This is what we are going to see in this part. Are there some channels that are specilaized on climate change and if yes what are the consequences?
-
-Are specilaized climate change channel more popular than regular channels, will their climatechnage videos have more success?
-
-</p>
-
-<img width="720" src="img/test.jpg">
-
-<p style='text-align: justify;'>  
-So, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change."But are there other parameters that make a climate change video more attractive than others, or vice versa?
-</p>
+Are there some channels that are specilaized on climate change and if yes what are the consequences?
 
 ## Sentiment analysis (SEB)
 
