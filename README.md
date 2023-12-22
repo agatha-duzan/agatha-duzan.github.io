@@ -39,21 +39,30 @@ This plot illustrating the evolution of the proportion of climate change videos 
 ## Overall audience response, how are climate videos perceived ? A study by category (PAUL)
 
 <p style='text-align: justify;'>  
-blablabla
+Faire l'anlyse par catégorie et dire que en fonction de la catégorie ce n'est pas pareil, parler de news and politics --> majorité des vidéos de climate sont de cette catégorie et les conséquences qui en découle!
 </p>
 
 ## Popular analysis (NASTASIA)
 
 <p style='text-align: justify;'>  
-blablabla
+Première partie de l'analyse de Nastasia: focus maintenant sur le nombre de vues et non le nombre de vidéos! 
+Les chaines qui ne sont pas sur le climate change font moins de vues quand elle parlent de climate change que les chaines spécialisées.
+Si t'es spécilisé en climate chnage tu fais plus de vues.
+
+--> Conclusion il s'agit d'un secteur de niche pour un pubic ciblé qui est friand des videos sur le clilate chnage. 
 </p>
 
 <img width="720" src="img/test.jpg">
 
+<p style='text-align: justify;'>  
+So we have seen that depending on your channel type, if your are an active youtuber about climate change your videos will have more or less views. But are they other parameters making a climatre change vidoe more attracting than other or other? 
+</p>
+
 ## Sentiment analysis (SEB)
 
 <p style='text-align: justify;'>  
-blablabla
+Qu'est-ce qui explique que les vidéos font moins de vues? 
+
 </p>
 
 {% include scatter.html %}
@@ -61,11 +70,12 @@ blablabla
 
 ## A Deeper analysis, can we relate view peaks to current events? (AGATHA)
 
+### Number of videos uploaded
 <p style='text-align: justify;'>  
-blabla bla
+Wh
 </p>
 
-## Tags analysis (SEB)
+### Tags analysis (SEB)
 
 <p style='text-align: justify;'>  
 tag + COP 21
