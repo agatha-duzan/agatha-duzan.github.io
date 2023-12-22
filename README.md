@@ -46,7 +46,7 @@ Before conducting this study, let's analyze the trend in the average number of v
 Two conclusion can be said from this study.Firstly when focussing across all video categories, there exists a tendency for older videos to accumulate a higher total view count. This could be explained by their extended duration on the platform. However, a notable distinction emerges in the realm of climate change videos. Here, a more consistent pattern is observed, suggesting that older climate change-related content tends to attract fewer views over time, hinting at a potential perception of rapid obsolescence. We also observe some peaks at certain times. This peaks are rapid and steady letting thing that an important event happened. It's worth noting that we intend to delve deeper into interpreting the abrupt spikes in view counts as part of our subsequent analysis.
 </p>
 
-## Analysis climate change videos' categories (PAUL)
+## Analysis climate change videos' categories 
 
 <p style='text-align: justify;'>
 What are climate change related videos main youtube categories and how does it compare to overall youtube? Was there an evolution of these categories ?
@@ -97,7 +97,7 @@ This box plot shows that in average, videos on climate change are not very popul
 Therefore, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change.But how are these videos received by the audience?
 </p>
 
-## Overall audience response: how are climate videos perceived ? (PAUL)
+## Overall audience response: how are climate videos perceived ? 
 
 <p style='text-align: justify;'>  
 Faire l'analyse par catégorie et dire que en fonction de la catégorie ce n'est pas pareil, parler de news and politics --> majorité des vidéos de climate sont de cette catégorie et les conséquences qui en découle!
@@ -126,7 +126,7 @@ Most of the videos of the channels that are involved with climate change usually
 </p>
 
 
-## Sentiment analysis (SEB)
+## Sentiment analysis 
 
 <p style='text-align: justify;'>  
 Emotions run high when discussing the alarming issue of climate change. The current situation paints a bleak picture, and as time passes, the daunting reality of averting the catastrophic consequences becomes increasingly apparent. However, amidst this turmoil, a glimmer of hope emerges. There are those who find solace in witnessing the growing number of individuals taking action and the emergence of groundbreaking technologies. Therefore we ask ourself: does the presentation style of climate change videos influence their impact? Are viewers drawn to these videos seeking to shed tears over the impending crisis, or are they yearning to nurture their optimism for a brighter future? The way climate change issues are portrayed might wield immense power in shaping viewers' emotions and perceptions, possibly influencing their actions and hopes for the world that lies ahead.
@@ -136,7 +136,7 @@ Emotions run high when discussing the alarming issue of climate change. The curr
 {% include view_sentiment.html %}
 <img width="720" src="img/sa_category.png">
 
-## A Deeper analysis, can we relate view peaks to current events? (AGATHA)
+## A Deeper analysis, can we relate view peaks to current events? 
 
 <p style='text-align: justify;'>  
 While climate change may not captivate every YouTube user, certain events have the power to alter this disinterest. Significant occurrences have the ability to shift our perspective on the world, compelling us to react. There's a natural inclination among individuals to respond, to voice their thoughts and opinions on the subject when such events occur. Is it possible to identify which events have had the greatest impact on people and incited their reactions regarding climate change?
@@ -148,7 +148,7 @@ A first approach consists of analysing the number of videos uploaded to find som
 
 </p>
 
-### Tags analysis (SEB)
+### Tags analysis 
 
 <p style='text-align: justify;'>  
 A second approach consists of analysing the number of tags to find some peaks and match them with current events.
@@ -156,7 +156,17 @@ By looking at the most popular tags related to climate change, we observe regual
 
 {% include tag_count.html %}
 
-We will now focus on the period around the COP21 to see what other information can we extract from Youtube about this event. 
+We will now focus on the period around the COP21 to see what other information can we extract from Youtube about this event.
+
+<img width="720" src="img/bipartite.png">
+
+We first construct a bipartite graph between the tags and the videos. We then project this graph on the tags to obtain a graph of tags. 
+
+
+<img width="720" src="img/cop21_graph.png">
+
+We see that the thas related to COP21 cover multiple climate change subjects.
+
 </p>
 
 ## Conclusion
