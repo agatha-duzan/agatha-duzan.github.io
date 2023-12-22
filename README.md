@@ -88,9 +88,12 @@ A first approach consits of analysing the number of videos uploaded to find some
 ### Tags analysis (SEB)
 
 <p style='text-align: justify;'>  
-A second approach consits of analysing the number of tags to find some peaks and match them with current events.
+A second approach consists of analysing the number of tags to find some peaks and match them with current events.
+By looking at the most popular tags related to climate change, we observe regualr count sikes which can some time be related to current events. For example, the tag "cop21" is the most popular tag in 2015, which is the year of the Paris Agreement. This agreement was signed by 196 countries to reduce greenhouse gas emissions and limit the global temperature increase to 1.5°C. This event was a major step in the fight against climate change, and it is not surprising that it has generated a lot of interest on YouTube.
 
-Study of COP 21
+{% include tag_count.html %}
+
+We will now focus on the period around the COP21 to see what other information can we extract from Youtube about this event. 
 </p>
 
 ## Conclusion
