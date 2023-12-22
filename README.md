@@ -36,21 +36,21 @@ As we can see there is an increase of videos on climate change overtime. But is 
 This plot illustrates the evolution of the proportion of climate change videos by week. It shows a consistent decrease in the number of videos dedicated to discussing climate change. However, interpreting this decline as an indicator of lack of interest in climate change might be premature. Alternatively, it raises the question of whether videos centered on climate change are becoming less appealing compared to other content. Could this declining trend be attributed to the rapid surge in popularity of other genres on YouTube? For instance, the platform is notably dominated by certain categories such as gaming, which continually experiences rapid growth. It's plausible that this surge in gaming content isn't aligned with climate change discussions, possibly resulting in fewer videos addressing this critical topic. Hence, conducting an in-depth analysis categorized by content type seems imperative to comprehend the dynamics influencing viewership patterns and preferences on the platform.
 </p>
 
-## In what categories climate change videos are part of? (PAUL)
+## Analysis climate change videos' categories (PAUL)
 
 Mettre ses pie plots
 
-## Popular analysis (NASTASIA)
+## Popular analysis
 
 <p style='text-align: justify;'>  
-
-Are climate change videos more popular than other videos? This is what we are going to see in this part.  
+Are climate change videos more popular than other videos? This is what we are going to see in this part. 
+</p>
+<p style='text-align: justify;'>   
 Here are all the channels that contains climate videos. The darker the dot, the more pourcentage of climate videos thay contain and the bigger they are, the more videos they uploaded on the topic.
-
 {% include scatter_inter.html %}
-
+</p>
+<p style='text-align: justify;'>  
 We notice that most of the channels with a high proportion of climate change videos are under the x=y curve. This would mean channels with a high ratio of climate videos tend to do good compared to their other videos. We will analyse more in details how good climate videos do in general:
-
 </p>
 
 <img width="720" src="img/ratio_boxplot.png">
@@ -70,9 +70,24 @@ Transition:
 So overall what makes a video popular or not?
 </p>
 
-## Analysis of the channels that are strongly involved with the climate change topic (NASTASIA)
+## Analysis of the channels that are strongly involved with the climate change topic
 
-Are there some channels that are specilaized on climate change and if yes what are the consequences?
+<p style='text-align: justify;'>
+Are there some channels that are specilaized on climate change and if yes what are the consequences? Are their views related to international climate events?
+</p>
+<p style='text-align: justify;'>  
+Here are all the channels that have more than 50% of their content corresponding to climate change videos. They are precisely 10.
+</p>
+<img width="720" src="img/barplot_ch50.png">
+<p style='text-align: justify;'>  
+We will now consider their number of views per day and observe if they are correlated to climate change event:
+{% include scatter_inter.html %}
+</p>
+<p style='text-align: justify;'> 
+After some further investigations, it seems that even if some pics look like they could be related, the videos uploaded in that period of time do not have any correlation with the event in question.  
+Most of the videos of the channels that are involved with climate change usually do not make videos about specific events and when they do, it is months after the event and they usually don't have many views. Therefore, that explains why we don't observe more pronounced pics of views on those channels after a climate event.
+</p>
+
 
 ## Sentiment analysis (SEB)
 
