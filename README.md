@@ -8,15 +8,23 @@ Climate change is a hot topic that needs to draw people's attention more than ev
 YouNiverse is a large dataset collection of channel and video metadata from English-language YouTube. The metadata covers over 136k channels and 72.9M videos providing information about the videos realated to their categories, upload date, description ,and interactions statistics. The time frame considered is between May 2005 and October 2019. In addition, YouNiverse provides a time series dataset focusing on channels and the evolution of their views, subscribers, and number of videos over time from early January to the end of September. 
 
 
-{% include QuarterlyScore.html %}
-
 HERE ADD THE PLOT WITH THE EVOLUTION OF VIDEOS OVER TIME
 
 </p>
 
 ## About Climate change on Youtube
+
+Les 2 plots de paul pour avoir les proportions de vidéos sur climate change!
+
+
+Analyse superficielle avec les graphes de Paul très jolis pour voir la répartition par catégorie. 
+
+## Recent evolution of climate change on Youtube
 <p style='text-align: justify;'>  
 An increase number of clkimate videos over time.
+
+
+PARTIE DE AGATHA!!
 
 However we also observe that the number of videos on youtube as been rising. So was climate change a topic that atrracted more people due to higher level of attractiveness.  Proportion goes down.  it suggest that people are not very interested but is it true is it not due to ? When somtehing happen...
 
@@ -26,21 +34,10 @@ To do so here is the plot of the part of videos that were climate change oreinet
 
 {% include scatter.html %}
 
-## Brief methodology detour: how did we extract climate videos
-
-### First methodology, key words
-
-<p style='text-align: justify;'>  
-test
-</p>
+## Popular analysis (NASTASIA)
 
 
 
-### Second and final methodology, filtering with google content classifier
-
-<p style='text-align: justify;'>  
-This suggests that there is a high level of interest in this type of content among YouTube users.
-</p>
 
 ## Deeper analysis of the Evolution of climate change videos
 
