@@ -109,7 +109,7 @@ Therefore, we have observed that depending on your channel type, if you are an a
 ## Analysis of the channels that are strongly involved with the climate change topic
 
 <p style='text-align: justify;'>
-Are there some channels that are specilaized on climate change and if yes what are the consequences? Are their views related to international climate events?
+Are there some channels that are specilaized on climate change and if yes what are the consequences? Are there views related to international climate events?
 </p>
 <p style='text-align: justify;'>  
 Here are all the channels that have more than 50% of their content corresponding to climate change videos. They are precisely 10.
@@ -121,14 +121,14 @@ We will now consider their number of views per day and observe if they are corre
 </p>
 <p style='text-align: justify;'> 
 After some further investigations, it seems that even if some pics look like they could be related, the videos uploaded in that period of time do not have any correlation with the event in question.  
-Most of the videos of the channels that are involved with climate change usually do not make videos about specific events and when they do, it is months after the event and they usually don't have many views. Therefore, that explains why we don't observe more pronounced pics of views on those channels after a climate event.
+Most of the videos of the channels that are involved with climate change usually do not make videos about specific events and when they do, it is months after the event, and they usually don't have many views. Therefore, that explains why we don't observe more pronounced pics of views on those channels after a climate event.
 </p>
 
 
 ## Sentiment analysis 
 
 <p style='text-align: justify;'>  
-Emotions run high when discussing the alarming issue of climate change. The current situation paints a bleak picture, and as time passes, the daunting reality of averting the catastrophic consequences becomes increasingly apparent. However, amidst this turmoil, a glimmer of hope emerges. There are those who find solace in witnessing the growing number of individuals taking action and the emergence of groundbreaking technologies. Therefore we ask ourself: does the presentation style of climate change videos influence their impact? Are viewers drawn to these videos seeking to shed tears over the impending crisis, or are they yearning to nurture their optimism for a brighter future? The way climate change issues are portrayed might wield immense power in shaping viewers' emotions and perceptions, possibly influencing their actions and hopes for the world that lies ahead.
+Emotions run high when discussing the alarming issue of climate change. The current situation paints a bleak picture, and as time passes, the daunting reality of averting the catastrophic consequences becomes increasingly apparent. However, amidst this turmoil, a glimmer of hope emerges. There are those who find solace in witnessing the growing number of individuals taking action and the emergence of groundbreaking technologies. Therefore we ask ourselves: does the presentation style of climate change videos influence their impact? Are viewers drawn to these videos seeking to shed tears over the impending crisis, or are they yearning to nurture their optimism for a brighter future? The way climate change issues are portrayed might wield immense power in shaping viewers' emotions and perceptions, possibly influencing their actions and hopes for the world that lies ahead.
 </p>
 
 <p style='text-align: justify;'>  
@@ -152,12 +152,15 @@ While climate change may not captivate every YouTube user, certain events have t
 </p>
 
 ### Number of videos uploaded
+
 <p style='text-align: justify;'>  
 A first approach consists of analysing the number of videos uploaded to find some peaks and match them with current events.
-
+</p>
 <img width="720" src="img/vite.jpeg">
 
-This plot shows the relation between current event and the number of video uploaded pointing out how current event have an impact on youtube.
+<p style='text-align: justify;'>  
+
+This plot shows the relation between current event and the number of video uploaded pointing out how current event have an impact on youtube. As we can see, the number of videos uploaded is not constant over time. Indeed, we can observe some peaks that are related to current events. We will further investigate these peaks by looking at their tags in order to find out what they are related to.
 
 </p>
 
@@ -192,6 +195,8 @@ We see that the tags related to COP21 cover multiple climate change subjects suc
 ## Conclusion
 
 <p style='text-align: justify;'>
-In conclusion, we can say that climate change is a topic that is becoming more and more important on YouTube. However, it is still a niche topic, and it is not yet as popular as other topics such as gaming or music. 
-We have also seen that the way climate change is presented in videos can have a significant impact on the number of views. Indeed, videos that are more optimistic and that focus on solutions to climate change are more popular than videos that are alarmist and that focus on the negative consequences of climate change. 
+
+In conclusion, we can say that climate change is a topic that is becoming more and more important on YouTube. However, it is still a niche topic, and it is not yet as popular as other topics such as gaming or music. The format and topics of climate change-related videos on YouTube undergo changes over time, reflecting influences from global events as they unfold.
+We have also seen that the way climate change is presented in videos can have a significant impact on the number of views. Indeed, negative videos are more popular than positive videos. This is not surprising since negative videos are more likely to be shared on social networks. Indeed, people are more likely to share a video that makes them angry than a video that makes them happy. This is called the "anger effect" and it has been observed in several studies.
+
 Finally, we have seen that some events have a significant impact on the number of videos uploaded and the number of views. This is particularly the case for the COP21, which generated a lot of interest on YouTube. We can therefore conclude that YouTube is a good indicator of the interest of the general public in climate change.
