@@ -2,7 +2,8 @@
 
 <p style='text-align: justify;'>  
 YouTube has evolved beyond its origins as a mere video-sharing platform and has now emerged as a pivotal social media channel, revolutionizing how we engage with information, entertainment, and societal issues. In this digital era, YouTube's impact extends far beyond cat videos and entertainment content; it has become a significant space for raising awareness about crucial global topics. With billions of users worldwide, YouTube serves as a democratic platform where creators, educators, activists, scientists, and policymakers share diverse content on hot issues. Talking about hot issues we will focuss in this datastory on the importance of climate change on youtube.
-ADD nos problématiques et questions que l'on va solve
+
+ADD OUR PROBLEMATIVS!!!!
 </p>
   
 ## About YouNiverse
@@ -30,7 +31,7 @@ Here, using these two interactive plots, you can observe the proportion of YouTu
 As we can see there is an increase of videos on climate change overtime. But is this due to the recent spread of popularity of youtube or is this due to an increase of interest for climate change topics? To answer this question it is necessary to focus on the evolution of the proportion of videos focussing on cliamte change over time.
 
 
-## A study by category
+## A study by category (PAUL)
 
 
 
