@@ -81,7 +81,7 @@ While climate change may not captivate every YouTube user, certain events have t
 
 ### Number of videos uploaded
 <p style='text-align: justify;'>  
-A first approach consits of analysing the number of videos uploaded to find some peaks and match them with current events.
+A first approach consists of analysing the number of videos uploaded to find some peaks and match them with current events.
 
 </p>
 
@@ -97,3 +97,8 @@ We will now focus on the period around the COP21 to see what other information c
 </p>
 
 ## Conclusion
+
+<p style='text-align: justify;'>
+In conclusion, we can say that climate change is a topic that is becoming more and more important on YouTube. However, it is still a niche topic, and it is not yet as popular as other topics such as gaming or music. 
+We have also seen that the way climate change is presented in videos can have a significant impact on the number of views. Indeed, videos that are more optimistic and that focus on solutions to climate change are more popular than videos that are alarmist and that focus on the negative consequences of climate change. 
+Finally, we have seen that some events have a significant impact on the number of videos uploaded and the number of views. This is particularly the case for the COP21, which generated a lot of interest on YouTube. We can therefore conclude that YouTube is a good indicator of the interest of the general public in climate change.
