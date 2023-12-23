@@ -121,7 +121,7 @@ Therefore, we have observed that depending on your channel type and your categor
 </p>
 
 
-## Observational study: what implications does being a climate change-related video have on audience response?
+## Audience response
 
 <p style='text-align: justify;'>
 Now we want to study if being a climate video influence the number of likes, dislikes and related. Can people also hate on a good-cause topic or they tend to be more refined?
