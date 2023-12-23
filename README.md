@@ -237,7 +237,7 @@ By looking at the most popular tags related to climate change, we observe regual
 We will now focus on the period around the COP21 to see what other information can we extract from Youtube about this event.
 </p>
 
-<img width="720" src="img/bipartite.png">
+<img width="700" src="img/bipartite.png">
 
 <p style='text-align: justify;'>
 We first construct a bipartite graph between the tags and the videos. We then project this graph on the tags to obtain a graph of tags where two tags are connected if they appear in the same video, the width of the edge being proportional to the number of videos in which the two tags appear together.
@@ -246,7 +246,7 @@ We then select the community that contains the tag "cop21".
 </p>
 
 
-<img width="720" src="img/cop21_graph.png">
+<img width="700" src="img/cop21_graph.png">
 
 <p style='text-align: justify;'>
 We see that the tags related to COP21 cover multiple climate change subjects such has "solar energy". Indeed, we find tags related to the Paris Agreement, but also tags related to the consequences of climate change, such as "extinction". This shows that COP21 has generated a lot of interest on YouTube, and that people are interested in both the causes and the consequences of climate change.
