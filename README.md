@@ -135,32 +135,46 @@ With the balanced categories, we introduce the sysmetric like-dislike ratio (SLD
 <p style='text-align: justify;'>
 What to understand from this index: 
 <ul>
-    <li> If there are more likes than dislikes it is simply the like/dislike ratio (the +1 to avoid dividing by 0)  
-    <li> If there are more dislikes than likes it is simply the dislike/like ratio (the +1 to avoid dividing by 0) with minus sign in front  
-    <li> Random choice in case of equality not to bias positively or negatively  
+    <li> If there are more likes than dislikes it is simply the like/dislike ratio (the +1 to avoid dividing by 0) </li>
+    <li> If there are more dislikes than likes it is simply the dislike/like ratio (the +1 to avoid dividing by 0) with minus sign in front  </li>
+    <li> Random choice in case of equality not to bias positively or negatively
     </li>
 </ul> 
 </p>
-
+<p style='text-align: justify;'>
+Engagement rate: nb of (likes + dislikes) / nb views
+</p>
 <img width="720" src="img/bar1.png">
+<p style='text-align: justify;'>
+Like proportion: nb likes / nb views
+</p>
 <img width="720" src="img/bar2.png">
+<p style='text-align: justify;'>
+Dislike proportion: nb dislike / nb views
+</p>
 <img width="720" src="img/bar3.png">
+<p style='text-align: justify;'>
+SLDR
+</p>
 <img width="720" src="img/bar4.png">
+<p style='text-align: justify;'>
+Dislike to reaction proportion: nb dislike / (nb dislike + nb like)
+</p>
 <img width="720" src="img/bar5.png">
 
 <p style='text-align: justify;'>
 Being a climate video impacts all the metrics we computed. It may be a small impact, but always statitically relevent (though not category wise).  
 <ul>
-    <li> Climate change related videos are more "engaging" meaning they get more likes & dislikes mixed together.  
-    <li> This increase in engagment is both explained by an increase in the number of likes and number of dislikes.  
-    <li> Being a climate video decreases the SLDR and increases the dislike to number of reactions, meaning climate change videos are more debatable and "disliked".  
+    <li> Climate change related videos are more "engaging" meaning they get more likes & dislikes mixed together.  </li>
+    <li> This increase in engagment is both explained by an increase in the number of likes and number of dislikes.  </li>
+    <li> Being a climate video decreases the SLDR and increases the dislike to number of reactions, meaning climate change videos are more debatable and "disliked".  </li>
     <li> Hence, climate vidoes get more dislikes. They get more likes as well but not enough to totally "compensate" the dislikes.  
     </li>
 </ul> 
 
 If we look category wise, 
 <ul>
-    <li> The augmentation in dislikes is particularly important in Non Profit ans Activism as well as People and blogs  
+    <li> The augmentation in dislikes is particularly important in Non Profit ans Activism as well as People and blogs </li> 
     <li> In both Science & Technology and News and Politics the tendecy is reversed. Climate Change rerlated videos get more likes!  
     </li>
 </ul>  
