@@ -101,10 +101,66 @@ We notice that most of the channels with a high proportion of climate change vid
 <img width="720" src="img/ratio_boxplot.png">
 
 <p style='text-align: justify;'> 
-This box plot shows that in average, videos on climate change are not very popular on YouTube, especially if the channel is not specialized in the topic. Making climate change videos will not make you famous. However, if your channel has a high ratio of climate videos, then you might have an audience that is interested in the topic and continuing to make those videos will make you gain views.   
-Therefore, we have observed that depending on your channel type, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of videos about climate change.But how are these videos received by the audience?
+As we can see being a climate change related clearly negativeley impacts the number of view a video may have. Overall there is a decrease of more than 25000 views. However, if the channel is specialized in the topic, then there is a slight advantage in making climate related videos. Therefore, making climate change videos will not make you famous. Nonetheless, if your channel has a high ratio of climate videos, then you might have an audience that is interested in the topic and continuing to make those videos will make you gain views.   
 </p>
 
+<p style='text-align: justify;'>
+We can also wonder if the number of view the climate videos generate depend on their category. Maybe categories such as gaming or music would be less popular than other categories such as news & politics or education with that topic.
+</p>
+
+<img width="720" src="img/bar_view_cat.png">
+
+<p style='text-align: justify;'>
+Note that transparent colors is when the analysis is not statistacally relevent (p-value > 0.05)
+
+This tendency is smaller for some categories such as *New & Politics* or bigger for *Education*. Namely, in *Education* Climate change related have much less views than Non Climate Videos.
+*Non Profit and Activism* is the only category where being a climate change related videos positively impact the number of view, though this impact is not statistcally relevant
+</p>
+
+<p style='text-align: justify;'>
+Therefore, we have observed that depending on your channel type and your category, if you are an active YouTuber discussing climate change, your videos will receive more or fewer views. Climate chnage is therefore a niche sector on Youtube, for a targeted audience that is fond of those videos. But how are these videos received by the audience?
+</p>
+
+
+## Observational study: what implications does being a climate change-related video have on audience response?
+
+<p style='text-align: justify;'>
+Now we want to study if being a climate video influence the number of likes, dislikes and related. Can people also hate on a good-cause topic or they tend to be more refined?
+We also perform a matching on the number of views since this may be confounder influencing these likes and dislikes number.
+</p>
+
+<p style='text-align: justify;'>
+With the balanced categories, we introduce the sysmetric like-dislike ratio (SLDR):  
+</p>
+
+$$SLDR(N_{like}, N_{dislike}) =  (-1)^{\delta} \dfrac{\max{(N_{like} , N_{dislike}) + 1}}{\min{(N_{like} , N_{dislike} ) +1 } }$$
+
+$$ \delta = 0 \text{  if  } N_{like} > N_{dislike}, \delta = 1  \text{  if  } N_{like} < N_{dislike} \text{ ,  random choice if equality}$$
+
+<p style='text-align: justify;'>
+What to undestand from this formula:  
+- If there are more likes than dislikes it is simply the like/dislike ratio (the +1 to avoid dividing by 0)  
+- If there are more dislikes than likes it is simply the dislike/like ratio (the +1 to avoid dividing by 0) with minus sign in front  
+- Random choice in case of equality not to bias positively or negatively  
+</p>
+
+<img width="720" src="img/bar1.png">
+<img width="720" src="img/bar2.png">
+<img width="720" src="img/bar3.png">
+<img width="720" src="img/bar4.png">
+<img width="720" src="img/bar5.png">
+
+<p style='text-align: justify;'>
+Being a climate video impacts all the metrics we computed. It may be a small impact, but always statitically relevent (though not category wise).  
+- Climate change related videos are more "engaging" meaning they get more likes & dislikes mixed together.  
+- This increase in engagment is both explained by an increase in the number of likes and number of dislikes.  
+- Being a climate video decreases the SLDR and increases the dislike to number of reactions, meaning climate change videos are more debatable and "disliked".  
+- Hence, climate vidoes get more dislikes. They get more likes as well but not enough to totally "compensate" the dislikes.  
+
+If we look category wise,  
+- The augmentation in dislikes is particularly important in *Non Profit ans Activism* as well as *People and blogs*  
+- In both *Science & Technology* and *News and Politics* the tendecy is reversed. Climate Change rerlated videos get more likes!  
+</p>
 
 ## Analysis of the channels that are strongly involved with the climate change topic
 
@@ -121,9 +177,8 @@ We will now consider their number of views per day and observe if they are corre
 </p>
 <p style='text-align: justify;'> 
 After some further investigations, it seems that even if some pics look like they could be related, the videos uploaded in that period of time do not have any correlation with the event in question.  
-Most of the videos of the channels that are involved with climate change usually do not make videos about specific events and when they do, it is months after the event, and they usually don't have many views. Therefore, that explains why we don't observe more pronounced pics of views on those channels after a climate event.
+Most of the videos of the channels that are involved with climate change usually do not make videos about specific events and when they do, it is months after the event, and they usually don't have many views. Therefore, that explains why we don't observe more pronounced pics of views on those channels after a climate event.  
 </p>
-
 
 ## Sentiment analysis 
 
