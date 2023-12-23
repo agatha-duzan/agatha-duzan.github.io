@@ -75,12 +75,11 @@ Several intriguing spikes suggest that specific videos have significantly influe
 
 <p style='text-align: justify;'>
 We can see that Climate Change was always mainly in News & Politics categorie but this tends to drastically increase as it increase on overall YouTube, but in greater proportions. We can also draw these interesting fact:
-* Climate Change was much more of a Non Profit & Activism topic in 2010 than in 2019 (20% versus 7% of uploaded videos)
-
-* Climate Change was much more of a Science & Technology topic in 2013 than in 2019 (38% versus 7% of uploaded videos)
-
-* There was up to 10% of Climate change related videos in Comedy but nearly 0 in 2019, we do not joke about climate change anymore.
-
+<ul>
+    <li>Climate Change was much more of a Non Profit & Activism topic in 2010 than in 2019 (20% versus 7% of uploaded videos)</li>
+    <li>Climate Change was much more of a Science & Technology topic in 2013 than in 2019 (38% versus 7% of uploaded videos)</li>
+    <li>There was up to 10% of Climate change related videos in Comedy but nearly 0 in 2019, we do not joke about climate change anymore.</li>
+</ul>
 Climate change categories have evolved over time, and have never been as serious as they are today. What are the consequences of news related videos on the audience? Are they more popular than other videos? We will see that in the next part.
 </p>
 
@@ -113,8 +112,8 @@ We can also wonder if the number of view the climate videos generate depend on t
 <p style='text-align: justify;'>
 Note that transparent colors is when the analysis is not statistacally relevent (p-value > 0.05)
 
-This tendency is smaller for some categories such as *New & Politics* or bigger for *Education*. Namely, in *Education* Climate change related have much less views than Non Climate Videos.
-*Non Profit and Activism* is the only category where being a climate change related videos positively impact the number of view, though this impact is not statistcally relevant
+This tendency is smaller for some categories such as New & Politics or bigger for Education. Namely, in Education climate videos have much less views than Non Climate Videos.
+Non Profit and Activism is the only category where being a climate change related videos positively impact the number of view, though this impact is not statistcally relevant
 </p>
 
 <p style='text-align: justify;'>
@@ -130,18 +129,17 @@ We also perform a matching on the number of views since this may be confounder i
 </p>
 
 <p style='text-align: justify;'>
-With the balanced categories, we introduce the sysmetric like-dislike ratio (SLDR):  
+With the balanced categories, we introduce the sysmetric like-dislike ratio (SLDR).  
 </p>
 
-$$SLDR(N_{like}, N_{dislike}) =  (-1)^{\delta} \dfrac{\max{(N_{like} , N_{dislike}) + 1}}{\min{(N_{like} , N_{dislike} ) +1 } }$$
-
-$$ \delta = 0 \text{  if  } N_{like} > N_{dislike}, \delta = 1  \text{  if  } N_{like} < N_{dislike} \text{ ,  random choice if equality}$$
-
 <p style='text-align: justify;'>
-What to undestand from this formula:  
-- If there are more likes than dislikes it is simply the like/dislike ratio (the +1 to avoid dividing by 0)  
-- If there are more dislikes than likes it is simply the dislike/like ratio (the +1 to avoid dividing by 0) with minus sign in front  
-- Random choice in case of equality not to bias positively or negatively  
+What to understand from this index: 
+<ul>
+    <li> If there are more likes than dislikes it is simply the like/dislike ratio (the +1 to avoid dividing by 0)  
+    <li> If there are more dislikes than likes it is simply the dislike/like ratio (the +1 to avoid dividing by 0) with minus sign in front  
+    <li> Random choice in case of equality not to bias positively or negatively  
+    </li>
+</ul> 
 </p>
 
 <img width="720" src="img/bar1.png">
@@ -152,14 +150,20 @@ What to undestand from this formula:
 
 <p style='text-align: justify;'>
 Being a climate video impacts all the metrics we computed. It may be a small impact, but always statitically relevent (though not category wise).  
-- Climate change related videos are more "engaging" meaning they get more likes & dislikes mixed together.  
-- This increase in engagment is both explained by an increase in the number of likes and number of dislikes.  
-- Being a climate video decreases the SLDR and increases the dislike to number of reactions, meaning climate change videos are more debatable and "disliked".  
-- Hence, climate vidoes get more dislikes. They get more likes as well but not enough to totally "compensate" the dislikes.  
+<ul>
+    <li> Climate change related videos are more "engaging" meaning they get more likes & dislikes mixed together.  
+    <li> This increase in engagment is both explained by an increase in the number of likes and number of dislikes.  
+    <li> Being a climate video decreases the SLDR and increases the dislike to number of reactions, meaning climate change videos are more debatable and "disliked".  
+    <li> Hence, climate vidoes get more dislikes. They get more likes as well but not enough to totally "compensate" the dislikes.  
+    </li>
+</ul> 
 
-If we look category wise,  
-- The augmentation in dislikes is particularly important in *Non Profit ans Activism* as well as *People and blogs*  
-- In both *Science & Technology* and *News and Politics* the tendecy is reversed. Climate Change rerlated videos get more likes!  
+If we look category wise, 
+<ul>
+    <li> The augmentation in dislikes is particularly important in Non Profit ans Activism as well as People and blogs  
+    <li> In both Science & Technology and News and Politics the tendecy is reversed. Climate Change rerlated videos get more likes!  
+    </li>
+</ul>  
 </p>
 
 ## Analysis of the channels that are strongly involved with the climate change topic
